@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.5",
-    "chai": "4.2.0",
+    "chai": "5.1.1",
     "chai-as-promised": "^7.1.1",
     "commander": "^3.0.1",
     "eth-gas-reporter": "^0.2.25",
